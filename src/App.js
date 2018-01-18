@@ -22,6 +22,7 @@ class App extends Component {
           </p>
       <Welcome name="Sara" />
       <Welcome name="Liisa" />
+      <Welcome name="Maisa" />
       <Welcome nimi="Näyttelijä" />
       <Welcome nimet="näyttelijät" />
       </div>
