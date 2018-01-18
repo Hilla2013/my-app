@@ -21,8 +21,6 @@ class App extends Component {
           Liisa harjoittelee Reactia
           </p>
       <Welcome name="Sara" />
-      <Welcome name="Cahal" />
-      <Welcome name="Edite" />
       <Welcome name="Liisa" />
       <Welcome nimi="Näyttelijät" />
       <Welcome nimet="näyttelijät" />
